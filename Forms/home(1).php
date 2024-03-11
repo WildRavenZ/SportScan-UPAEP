@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SPORTSCAN</title>
+        <style>
+            a:link { color:white; background-color:transparent; text-decoration:none }
+            a:visited { color:white; background-color:transparent; text-decoration:none }
+            a:hover { color:black; background-color:transparent; text-decoration:none }
+            a:active { color:black; background-color:transparent; text-decoration:none }
+        </style>
+    </head>
+<body>
+    <div>
+        
+        <table style="background-color: red", align="center">
+                <b> <tr> 
+                    <td>  <a href="registro_equipo.php">Registrar Equipo</a><br> </td>
+                    <td>  <a href="registro_temporada.php">Registrar Temporada</a> </td>
+                    <td>  <a href="registro_temporada.php">Registrar Temporada</a> </td>
+                    <td>  <a href="registro_jugador.php">Registrar Jugador</a> </td>
+                    <td>  <a href="registro_usuario.php">Registrar Usuario</a> </td>
+                    <td>  <a> </a> </td>
+                </tr> </b>
+            </table>   
+      
+    </div>
+</body>
+</html>

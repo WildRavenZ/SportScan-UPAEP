@@ -1,0 +1,63 @@
+h1 {
+    font-family: sans-serif;
+    color: black;
+    font-size: 44px;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    color: black;
+    font-size: 24px;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: black;
+    font-size: 30px;
+}
+
+h4 {
+    color: white;
+    font-size: 16px;
+}
+
+h5{
+    font-size: 26px;
+    font-family: serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+a {
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.displayable {
+    cursor: pointer;
+}
+
+.notice {
+    width: 300px;
+}
+
+.notice_content {
+    vertical-align: top;
+}
+
+.notice_body {
+    font-size: 18px;
+    color: black;
+    font-family: sans-serif;
+}
+
+.footer {
+    background-color: #17171B;
+    color: white;
+    font-family: sans-serif;
+}
